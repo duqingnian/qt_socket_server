@@ -1,0 +1,1 @@
+这是qt下最简单的socket server
